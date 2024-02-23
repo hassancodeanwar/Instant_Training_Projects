@@ -40,4 +40,4 @@ Contributions are welcome! If you find any issues or have improvements, please o
 
 - Hassan Anwar
 
-![Sample Image](https://github.com/hassancodeanwar/Instant_Training_Projects/blob/main/Face_Detiction_Using_OpenCV/media/Real-Time_face_detiction.gif)  
+![Real-Time Face Detection](https://github.com/hassancodeanwar/Instant_Training_Projects/blob/main/Face_Detiction_Using_OpenCV/media/Real-Time_face_detiction.gif)
