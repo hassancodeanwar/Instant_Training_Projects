@@ -1,7 +1,7 @@
 import cv2
 
 # Load the cascade
-face_cascade = cv2.CascadeClassifier('Trained_Classifier/haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('pretrained_classifier/haarcascade_frontalface_default.xml')
 
 # To capture video from webcam.
 cap = cv2.VideoCapture(0)
