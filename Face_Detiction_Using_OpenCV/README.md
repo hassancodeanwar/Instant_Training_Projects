@@ -1,9 +1,5 @@
 # Face_Detiction_Using_OpenCV
 
-
-
-```markdown
-
 This simple Python script utilizes the OpenCV library to perform face detection in an image and draw rectangles around the detected faces. The script uses a pre-trained Haar Cascade classifier for frontal face detection.
 
 ## Prerequisites
@@ -17,7 +13,7 @@ Before running the script, make sure you have the following installed:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 ## Usage
 
