@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 1. Clone the repository or download the script.
 2. Ensure you have a webcam connected to your system.
-3. Make sure the Haar Cascade XML file ('Trained_Classifier/haarcascade_frontalface_default.xml') is available in your project directory.
+3. Make sure the Haar Cascade XML file ('pretrained_classifier/haarcascade_frontalface_default.xml') is available in your project directory.
 4. Run the script:
 
     ```bash
