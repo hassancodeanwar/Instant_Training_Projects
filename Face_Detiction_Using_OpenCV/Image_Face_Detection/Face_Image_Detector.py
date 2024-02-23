@@ -1,7 +1,7 @@
 import cv2
 
 # Load the cascade
-face_cascade = cv2.CascadeClassifier('Trained_Classifier/haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('pretrained_classifier/haarcascade_frontalface_default.xml')
 # Read the input image
 img = cv2.imread('Media/test 2.jpg')
 # Convert into grayscale
